@@ -18,7 +18,7 @@ function animation() {
         dessineLeSerpent();
 
         // recursion
-        //animation();
+        animation();
 
     }, 100);
 }
